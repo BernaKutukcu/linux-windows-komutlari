@@ -5,9 +5,9 @@ kategorilere ayırarak derleyen bir referans rehberi.
 
 ## İçerik
 
-- [Linux Komutları](./linux-komutlari.md) — dosya işlemleri, ağ, 
+- [Linux Komutları](./linux_komutlari.md) — dosya işlemleri, ağ, 
   sistem yönetimi, paket yönetimi ve daha fazlası (60+ komut)
-- [Windows Komutları](./windows-komutlari.md) — dosya işlemleri, 
+- [Windows Komutları](./windows_komutlari.md) — dosya işlemleri, 
   ağ, sistem ve disk yönetimi (60+ komut)
 
 ## Kullanım Amacı
